@@ -1,0 +1,4 @@
+Osoba na poziciji : 0, zove se Irfan
+Osoba na poziciji : 1, zove se Faruk
+Osoba na poziciji : 2, zove se Anesa
+Osoba na poziciji : 3, zove se Harun

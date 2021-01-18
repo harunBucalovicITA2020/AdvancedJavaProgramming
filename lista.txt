@@ -1,0 +1,11 @@
+vrijednost od : 0 je 0
+vrijednost od : 1 je 1
+vrijednost od : 2 je 2
+vrijednost od : 3 je 3
+vrijednost od : 4 je 4
+vrijednost od : 5 je 5
+vrijednost od : 6 je 6
+vrijednost od : 7 je 7
+vrijednost od : 8 je 8
+vrijednost od : 9 je 9
+vrijednost od : 10 je 10
